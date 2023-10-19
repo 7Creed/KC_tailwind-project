@@ -1,8 +1,6 @@
-// import React from 'react'
-
 import { Link } from "react-router-dom";
-import { navLinks, navMenus } from "../utils/data";
-import logoWhite from "../assets/images/logoWhite.png";
+import { navLinks } from "../utils/data";
+import logoWhite from "../assets/images/LogoWhite.png";
 import { FaBars } from "react-icons/fa";
 import { AiOutlineClose } from "react-icons/ai";
 import { useState } from "react";
